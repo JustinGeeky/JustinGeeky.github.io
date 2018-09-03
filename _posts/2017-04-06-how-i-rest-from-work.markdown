@@ -7,8 +7,7 @@ img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [python]
 ---
-## Plaid ramps kitsch woke pork belly
-使用python版本：python3.6
+## 使用python版本：python3.6
 
 一、List
 
