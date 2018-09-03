@@ -11,7 +11,8 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 # add your name
 author: Cloud Geeky 
-author-img: david-freeman.jpg # add your photo
+author-img: david-freeman.jpg 
+# add your photo
 #add description
 about-author: 不想学代码的测试不是好测试
 #social-twitter: # add your Twitter handle
