@@ -9,7 +9,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
+# add your name
+author: Cloud Geeky 
 author-img: david-freeman.jpg # add your photo
 #add description
 about-author: 不想学代码的测试不是好测试
