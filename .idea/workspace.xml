@@ -72,7 +72,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="184">
-                <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+                <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -83,8 +83,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-17-python-struct.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="138">
-                <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <first_editor relative-caret-position="207">
+                <caret line="9" selection-start-line="9" selection-end-line="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -194,12 +194,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555578536888</updated>
-      <workItem from="1555578538179" duration="910000" />
+      <workItem from="1555578538179" duration="1386000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="910000" />
+    <option name="totallyTimeSpent" value="1386000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="336" y="145" width="1269" height="860" extended-state="0" />
@@ -279,8 +279,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-17-python-struct.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="138">
-            <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <first_editor relative-caret-position="207">
+            <caret line="9" selection-start-line="9" selection-end-line="9" />
           </first_editor>
           <second_editor />
         </state>
@@ -290,7 +290,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="184">
-            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>
